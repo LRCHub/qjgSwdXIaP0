@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "p.h.",
+  "base_artist": "SEVENTHLINKS",
+  "createdAt": "2026-02-09T07:34:38.873624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A P.H.P.'s Advice",
+      "artist": "Gong",
+      "has_synced": true,
+      "path": "select/01_A_P.H.P.'s_Advice_Gong.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "M.E.M.P.H.I.S.",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/02_M.E.M.P.H.I.S._Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "M.E.M.P.H.I.S. (Remix) (feat. Project Pat, Young Buck, La Chat, T-Rock & MC Mack)",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/03_M.E.M.P.H.I.S._(Remix)_(feat._Project_Pat,_Young_Buck,_La_Chat,_T-Rock_&_MC_Mack_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Y.P.H.",
+      "artist": "7seconds",
+      "has_synced": true,
+      "path": "select/04_Y.P.H._7seconds.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Y.P.H.",
+      "artist": "7 Seconds",
+      "has_synced": true,
+      "path": "select/05_Y.P.H._7_Seconds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "300 M.P.H. Torrential Outpour Blues",
+      "artist": "The White Stripes",
+      "has_synced": false,
+      "path": "select/06_300_M.P.H._Torrential_Outpour_Blues_The_White_Stripes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "300 M.P.H. Torrential Outpour Blues",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/07_300_M.P.H._Torrential_Outpour_Blues_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "300 M.P.H. Torrential Outpour Blues",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/08_300_M.P.H._Torrential_Outpour_Blues_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "300 M.P.H. Torrential Outpour Blues (Live)",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/09_300_M.P.H._Torrential_Outpour_Blues_(Live)_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Broken Tonight (Alex M.O.R.P.H. Remix)",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/10_Broken_Tonight_(Alex_M.O.R.P.H._Remix)_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shivers - Alex M.O.R.P.H. Red Light Dub",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/11_Shivers_-_Alex_M.O.R.P.H._Red_Light_Dub_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take A Moment (Alex M.O.R.P.H. Remix)",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/12_Take_A_Moment_(Alex_M.O.R.P.H._Remix)_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broken Tonight (Mix Cut) [feat. Richard Bedford, Fiora & Lauren Evans] [Alex M.O.R.P.H. Remix]",
+      "artist": "Armin van Buuren feat. Richard Bedford, Fiora & Lauren Evans",
+      "has_synced": false,
+      "path": "select/13_Broken_Tonight_(Mix_Cut)_[feat._Richard_Bedford,_Fiora_&_Lauren_Evans]_[Alex_M.O_Armin_van_Buuren_feat._Richard_Bedford,_Fiora_&_Lauren_Evans.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Broken Tonight (mix cut) [Alex M.O.R.P.H. remix]",
+      "artist": "Armin van Buuren feat. Richard Bedford, Fiora & Lauren Evans",
+      "has_synced": false,
+      "path": "select/14_Broken_Tonight_(mix_cut)_[Alex_M.O.R.P.H._remix]_Armin_van_Buuren_feat._Richard_Bedford,_Fiora_&_Lauren_Evans.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shivers - Alex M.O.R.P.H. Redlight Dub",
+      "artist": "Armin van Buuren feat. Susana",
+      "has_synced": false,
+      "path": "select/15_Shivers_-_Alex_M.O.R.P.H._Redlight_Dub_Armin_van_Buuren_feat._Susana.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take a Moment (Mix Cut) [feat. Winter Kills & Laura Jansen] [Alex M.O.R.P.H. Remix]",
+      "artist": "Armin van Buuren feat. Winter Kills & Laura Jansen",
+      "has_synced": false,
+      "path": "select/16_Take_a_Moment_(Mix_Cut)_[feat._Winter_Kills_&_Laura_Jansen]_[Alex_M.O.R.P.H._Rem_Armin_van_Buuren_feat._Winter_Kills_&_Laura_Jansen.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Take a Moment (mix cut) [Alex M.O.R.P.H. remix]",
+      "artist": "Armin van Buuren feat. Winter Kills & Laura Jansen",
+      "has_synced": false,
+      "path": "select/17_Take_a_Moment_(mix_cut)_[Alex_M.O.R.P.H._remix]_Armin_van_Buuren_feat._Winter_Kills_&_Laura_Jansen.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Skyfire (Alex M.O.R.P.H. remix)",
+      "artist": "Shogun",
+      "has_synced": false,
+      "path": "select/18_Skyfire_(Alex_M.O.R.P.H._remix)_Shogun.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sun in the Winter (Alex M.O.R.P.H. remix)",
+      "artist": "Max Graham feat. Neev Kennedy",
+      "has_synced": false,
+      "path": "select/19_Sun_in_the_Winter_(Alex_M.O.R.P.H._remix)_Max_Graham_feat._Neev_Kennedy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "p.h.",
+      "artist": "SEVENTHLINKS",
+      "has_synced": false,
+      "path": "select/pl_01_p.h._SEVENTHLINKS.txt"
+    }
+  ]
+}
